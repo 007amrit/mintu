@@ -1,0 +1,1 @@
+{"sections":{"main-cart":{"type":"main-cart","blocks":{"subtotal":{"type":"subtotal","settings":{}},"buttons":{"type":"buttons","settings":{}},"badge":{"type":"badge","disabled":true,"settings":{"secure_payment":true,"payment_enable":true}}},"block_order":["subtotal","buttons","badge"],"settings":{"full_width":false,"color_scheme":"primary"}}},"order":["main-cart"]}
